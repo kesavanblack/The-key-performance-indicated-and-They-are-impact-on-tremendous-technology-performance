@@ -6,3 +6,13 @@ scipy
 scikit-learn
 openpyxl
 xlsxwriter
+
+streamlit
+pandas
+numpy
+plotly
+scipy
+scikit-learn
+openpyxl
+xlsxwriter
+matplotlib
